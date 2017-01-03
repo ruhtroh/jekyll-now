@@ -10,6 +10,6 @@ This is a site dedicated to review of vinyl records. Whatever we find, buy, or g
 
 ## **Meet the team:**
 
-### **Jeremy Hitchcock**
+**Jeremy Hitchcock** 
 
 A fine young chap....
